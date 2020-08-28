@@ -589,7 +589,7 @@ a:focus, a:hover {
 }
 
 .hero-area {
-  background-image: url("../images/slider/mj.jpg");
+ /* background-image: url("../images/slider/mj.jpg");*/
   background-size: cover;
 	background-position: center;
   height: 100vh;
